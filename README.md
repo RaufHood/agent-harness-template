@@ -104,3 +104,9 @@ Open `CLAUDE.md` for the full best-practice notes.
 
 Every new skill, subagent or workflow must be listed in `AGENTS.md`.
 If it's not listed there, your agent won't know it exists.
+
+## License
+
+MIT — use it, change it, build your own framework from it.
+The example fonts are under their own OFL licenses (see `skills/doc-creator/assets/blinkwise/fonts/`).
+The Blinkwise name and logo are example branding only; replace them with your own.
