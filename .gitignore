@@ -1,0 +1,6 @@
+.env
+.DS_Store
+.venv/
+output/*
+!output/.gitkeep
+CLAUDE.local.md
